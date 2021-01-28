@@ -1,6 +1,18 @@
 # GYSpecs
 所有工具仓库的源
 
+## 使用
+> 添加源 
+```
+source 'https://github.com/Zhugy/GYSpecs.git'
+```
+
+> 添加需要使用的仓库
+```
+pod  'GYWeakTimer'
+```
+
+
 ### 工具类
 
 
