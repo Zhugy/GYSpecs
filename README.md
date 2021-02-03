@@ -20,5 +20,5 @@ pod  'GYWeakTimer'
 | :-----: | ---- |
 | [GYWeakTimer](https://github.com/Zhugongying/GYWeakTimer.git) | 防止定时器循环引用  |
 | [GYBaseKit](https://github.com/Zhugongying/GYBaseKit.git) | 基础组件 |
-
+| [GYMixtureScrollView](https://github.com/Zhugongying/GYMixtureScrollView.git)| 可以上下划，又可以左右滑动的 View |
 
