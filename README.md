@@ -10,6 +10,7 @@ source 'https://github.com/Zhugy/GYSpecs.git'
 > 添加需要使用的仓库
 ```
 pod  'GYWeakTimer'
+
 ```
 
 
